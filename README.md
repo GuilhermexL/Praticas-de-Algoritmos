@@ -1,6 +1,5 @@
-## Práticas de Algoritmos.
+## Prática de Algoritmos.
 
 ## 📃 Sobre:
 
-Praticados por conta própria para desenvolvimento pessoal.
-Linguagens usadas durante graduação...
+Praticados para desenvolvimento pessoal por linguagens usadas durante graduação..
