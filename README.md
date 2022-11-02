@@ -1,4 +1,4 @@
-## Prática de Algoritmos.
+## Prática de Algoritmos e Lógica em Programação.
 
 ## 📃 Sobre:
 
