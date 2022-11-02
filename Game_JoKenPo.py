@@ -1,3 +1,5 @@
+#Desenvolver um game que simule a brincadeira "Pedra, Papel e Tesoura".
+
 from random import randint
 from time import sleep
 
